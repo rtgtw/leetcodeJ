@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="TwoSum, two pointer and hashmap">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/BinarySearch/Sqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sources/Practice/src/Helper/Runtime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Sqrt">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/Practice/src/Multithreading/ProducerConsumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lcj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lcj.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,29 +38,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.PairWithTargetSumEasy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sqrt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSumLC.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSumUnsortedLC.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/remio/OneDrive/Desktop/sources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/remio/OneDrive/Desktop/lcj/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PairWithTargetSumEasy.executor": "Run",
+    "Application.Sqrt.executor": "Run",
+    "Application.TwoSumLC.executor": "Run",
+    "Application.TwoSumUnsortedLC.executor": "Run",
+    "Application.ValidPalindrome.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/remio/OneDrive/Desktop/sources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/remio/OneDrive/Desktop/lcj/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,7 +82,8 @@
       <workItem from="1724743233451" duration="1048000" />
       <workItem from="1724844756955" duration="3710000" />
       <workItem from="1724849725242" duration="847000" />
-      <workItem from="1724851215520" duration="1128000" />
+      <workItem from="1724851215520" duration="2750000" />
+      <workItem from="1724945477239" duration="2197000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -93,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724743261416</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sqrt">
+      <option name="closed" value="true" />
+      <created>1724852713119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724852713119</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TwoSum, two pointer and hashmap" />
-    <option name="LAST_COMMIT_MESSAGE" value="TwoSum, two pointer and hashmap" />
+    <MESSAGE value="Sqrt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sqrt" />
   </component>
 </project>
