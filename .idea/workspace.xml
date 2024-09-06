@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Leetcode isAnagram, not the best but we push forward">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ShortestWordDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sources/Practice/src/Io/BufferedInputStreamClass.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Leetcode Shortest Distance a nd BufferedInputStream">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseVowelOptimized.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,8 @@
   "keyToString": {
     "Application.ContainsDuplicates.executor": "Run",
     "Application.PairWithTargetSumEasy.executor": "Run",
+    "Application.ReverseVowel.executor": "Run",
+    "Application.ReverseVowelOptimized.executor": "Run",
     "Application.ShortestWordDistance.executor": "Run",
     "Application.Sqrt.executor": "Run",
     "Application.TwoSumLC.executor": "Run",
@@ -89,7 +91,8 @@
       <workItem from="1724945477239" duration="2834000" />
       <workItem from="1725039643064" duration="6088000" />
       <workItem from="1725048073189" duration="3319000" />
-      <workItem from="1725386974582" duration="2077000" />
+      <workItem from="1725386974582" duration="4781000" />
+      <workItem from="1725630070718" duration="3570000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -131,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725045299540</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Leetcode Shortest Distance a nd BufferedInputStream">
+      <option name="closed" value="true" />
+      <created>1725458788082</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725458788082</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +154,7 @@
     <MESSAGE value="ConsumerProducer multithreading and Palindrone leetcode" />
     <MESSAGE value="Leetcode Contains Duplicates" />
     <MESSAGE value="Leetcode isAnagram, not the best but we push forward" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode isAnagram, not the best but we push forward" />
+    <MESSAGE value="Leetcode Shortest Distance a nd BufferedInputStream" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode Shortest Distance a nd BufferedInputStream" />
   </component>
 </project>
