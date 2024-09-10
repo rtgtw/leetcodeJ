@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Leetcode Shortest Distance a nd BufferedInputStream">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseVowelOptimized.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Reverse Vowel + optimized">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseString344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseStringTwo541.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ThreeSum15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,8 @@
   "keyToString": {
     "Application.ContainsDuplicates.executor": "Run",
     "Application.PairWithTargetSumEasy.executor": "Run",
+    "Application.ReverseString344.executor": "Run",
+    "Application.ReverseStringTwo541.executor": "Run",
     "Application.ReverseVowel.executor": "Run",
     "Application.ReverseVowelOptimized.executor": "Run",
     "Application.ShortestWordDistance.executor": "Run",
@@ -92,7 +95,7 @@
       <workItem from="1725039643064" duration="6088000" />
       <workItem from="1725048073189" duration="3319000" />
       <workItem from="1725386974582" duration="4781000" />
-      <workItem from="1725630070718" duration="3570000" />
+      <workItem from="1725630070718" duration="15854000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -142,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725458788082</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Reverse Vowel + optimized">
+      <option name="closed" value="true" />
+      <created>1725633668264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725633668264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +166,18 @@
     <MESSAGE value="Leetcode Contains Duplicates" />
     <MESSAGE value="Leetcode isAnagram, not the best but we push forward" />
     <MESSAGE value="Leetcode Shortest Distance a nd BufferedInputStream" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode Shortest Distance a nd BufferedInputStream" />
+    <MESSAGE value="Reverse Vowel + optimized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse Vowel + optimized" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseStringTwo541.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
