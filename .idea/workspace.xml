@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Leetcode">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/MiddleOfLinkedList876.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Middle of linked list, i liked this one, simple and very effective, to find the middle of something just use two pointers">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/DeleteMiddleNode2095.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/MiddleOfLinkedList876.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/MiddleOfLinkedList876.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +104,7 @@
       <workItem from="1725386974582" duration="4781000" />
       <workItem from="1725630070718" duration="17351000" />
       <workItem from="1725979206820" duration="3035000" />
-      <workItem from="1726195260905" duration="9478000" />
+      <workItem from="1726195260905" duration="13210000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -177,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726436902962</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Middle of linked list, i liked this one, simple and very effective, to find the middle of something just use two pointers">
+      <option name="closed" value="true" />
+      <created>1726438085428</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726438085428</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +202,8 @@
     <MESSAGE value="Reverse Vowel + optimized" />
     <MESSAGE value="Oof" />
     <MESSAGE value="Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode" />
+    <MESSAGE value="Middle of linked list, i liked this one, simple and very effective, to find the middle of something just use two pointers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Middle of linked list, i liked this one, simple and very effective, to find the middle of something just use two pointers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
