@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Reverse Vowel + optimized">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseString344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseStringTwo541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ThreeSum15.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Oof">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Misc/SingleNumberXOR136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/CheckPanagram1832.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/LinkedListCycle141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/LinkedListCycleDG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/NumberOfGoodPairs1512.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -41,13 +46,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CheckPanagram1832.executor": "Run",
     "Application.ContainsDuplicates.executor": "Run",
+    "Application.LinkedListCycleDG.executor": "Run",
+    "Application.NumberOfGoodPairs1512.executor": "Run",
     "Application.PairWithTargetSumEasy.executor": "Run",
     "Application.ReverseString344.executor": "Run",
     "Application.ReverseStringTwo541.executor": "Run",
     "Application.ReverseVowel.executor": "Run",
     "Application.ReverseVowelOptimized.executor": "Run",
     "Application.ShortestWordDistance.executor": "Run",
+    "Application.SingleNumberXOR136.executor": "Run",
     "Application.Sqrt.executor": "Run",
     "Application.TwoSumLC.executor": "Run",
     "Application.TwoSumUnsortedLC.executor": "Run",
@@ -95,7 +104,9 @@
       <workItem from="1725039643064" duration="6088000" />
       <workItem from="1725048073189" duration="3319000" />
       <workItem from="1725386974582" duration="4781000" />
-      <workItem from="1725630070718" duration="15854000" />
+      <workItem from="1725630070718" duration="17351000" />
+      <workItem from="1725979206820" duration="3035000" />
+      <workItem from="1726195260905" duration="7964000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -153,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725633668264</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Oof">
+      <option name="closed" value="true" />
+      <created>1725976877728</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725976877728</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +186,8 @@
     <MESSAGE value="Leetcode isAnagram, not the best but we push forward" />
     <MESSAGE value="Leetcode Shortest Distance a nd BufferedInputStream" />
     <MESSAGE value="Reverse Vowel + optimized" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse Vowel + optimized" />
+    <MESSAGE value="Oof" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oof" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
