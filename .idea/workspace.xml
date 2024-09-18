@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Middle of linked list, i liked this one, simple and very effective, to find the middle of something just use two pointers">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/DeleteMiddleNode2095.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Delete middle Node, superset of middleNode">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/LinkedListTwo142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/PalindromeLinkedList234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/ReorderList143.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/MiddleOfLinkedList876.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/MiddleOfLinkedList876.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/DeleteMiddleNode2095.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/DeleteMiddleNode2095.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +25,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -46,9 +49,12 @@
     "Application.CheckPanagram1832.executor": "Run",
     "Application.ContainsDuplicates.executor": "Run",
     "Application.LinkedListCycleDG.executor": "Run",
+    "Application.LinkedListTwo142.executor": "Run",
     "Application.MiddleOfLinkedList876.executor": "Run",
     "Application.NumberOfGoodPairs1512.executor": "Run",
     "Application.PairWithTargetSumEasy.executor": "Run",
+    "Application.PalindromeLinkedList234.executor": "Run",
+    "Application.ReorderList143.executor": "Run",
     "Application.ReverseString344.executor": "Run",
     "Application.ReverseStringTwo541.executor": "Run",
     "Application.ReverseVowel.executor": "Run",
@@ -104,7 +110,8 @@
       <workItem from="1725386974582" duration="4781000" />
       <workItem from="1725630070718" duration="17351000" />
       <workItem from="1725979206820" duration="3035000" />
-      <workItem from="1726195260905" duration="13210000" />
+      <workItem from="1726195260905" duration="18560000" />
+      <workItem from="1726620903848" duration="12304000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -186,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726438085428</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Delete middle Node, superset of middleNode">
+      <option name="closed" value="true" />
+      <created>1726442044188</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726442044188</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +218,8 @@
     <MESSAGE value="Oof" />
     <MESSAGE value="Leetcode" />
     <MESSAGE value="Middle of linked list, i liked this one, simple and very effective, to find the middle of something just use two pointers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Middle of linked list, i liked this one, simple and very effective, to find the middle of something just use two pointers" />
+    <MESSAGE value="Delete middle Node, superset of middleNode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete middle Node, superset of middleNode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -212,6 +228,11 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/TwoPointers/ReverseStringTwo541.java</url>
           <line>136</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/TwoPointers/FastAndSlow/LinkedListTwo142.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

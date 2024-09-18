@@ -30,5 +30,8 @@ public class DeleteMiddleNode2095 {
         //"deleting" the node, just replacing it, garbage collector in java deletes the memory allocation
         slowTrail.next = slow.next;
         return head;
+
+        //o(N) time complexity
+        //o(1) space complexity
     }
 }
