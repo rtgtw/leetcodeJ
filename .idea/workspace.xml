@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Leetcode">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Misc/PailindromeNumber9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/SlidingWindow/SlidingWindowIntro.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Palindrome 9">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Stack/ValidParenthesis20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/Practice/src/Databases/Concepts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     "Application.TwoSumUnsortedLC.executor": "Run",
     "Application.ValidAnagram.executor": "Run",
     "Application.ValidPalindrome.executor": "Run",
+    "Application.ValidParenthesis20.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -112,7 +113,8 @@
       <workItem from="1726195260905" duration="18560000" />
       <workItem from="1726620903848" duration="12325000" />
       <workItem from="1726709262013" duration="632000" />
-      <workItem from="1726719073800" duration="710000" />
+      <workItem from="1726719073800" duration="768000" />
+      <workItem from="1726842828488" duration="3313000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -210,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726697709448</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Palindrome 9">
+      <option name="closed" value="true" />
+      <created>1726786665196</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726786665196</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +238,8 @@
     <MESSAGE value="Middle of linked list, i liked this one, simple and very effective, to find the middle of something just use two pointers" />
     <MESSAGE value="Delete middle Node, superset of middleNode" />
     <MESSAGE value="Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode" />
+    <MESSAGE value="Palindrome 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrome 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
