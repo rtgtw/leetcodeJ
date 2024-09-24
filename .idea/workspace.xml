@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Valid Parenthesis, Stack problem">
-      <change afterPath="$PROJECT_DIR$/../sources/Practice/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Connecting to DB, Leetcode sliding window">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/CyclicSort/CyclicSortIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/CyclicSort/MissingNumber268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/SlidingWindow/LongestSubstringChar3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/SlidingWindow/MaximumSubarraySumDistinct2461.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/SlidingWindow/SlidingWindowIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/SlidingWindow/SlidingWindowIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sources/Practice/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/Practice/Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sources/Practice/src/Databases/Concepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/Practice/src/Databases/Concepts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +48,13 @@
   "keyToString": {
     "Application.CheckPanagram1832.executor": "Run",
     "Application.ContainsDuplicates.executor": "Run",
+    "Application.CyclicSortIntro.executor": "Run",
     "Application.LinkedListCycleDG.executor": "Run",
     "Application.LinkedListTwo142.executor": "Run",
+    "Application.LongestSubstringChar3.executor": "Debug",
+    "Application.MaximumSubarraySumDistinct2461.executor": "Run",
     "Application.MiddleOfLinkedList876.executor": "Run",
+    "Application.MissingNumber268.executor": "Run",
     "Application.NumberOfGoodPairs1512.executor": "Run",
     "Application.PailindromeNumber9.executor": "Run",
     "Application.PairWithTargetSumEasy.executor": "Run",
@@ -119,7 +123,13 @@
       <workItem from="1726719073800" duration="768000" />
       <workItem from="1726842828488" duration="5396000" />
       <workItem from="1726877117648" duration="555000" />
-      <workItem from="1726936422421" duration="4158000" />
+      <workItem from="1726936422421" duration="7358000" />
+      <workItem from="1726947749200" duration="3641000" />
+      <workItem from="1726951416228" duration="2298000" />
+      <workItem from="1726968105494" duration="3351000" />
+      <workItem from="1727043323073" duration="18000" />
+      <workItem from="1727143962016" duration="1587000" />
+      <workItem from="1727145565129" duration="2073000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -233,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726848298897</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Connecting to DB, Leetcode sliding window">
+      <option name="closed" value="true" />
+      <created>1726941227584</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726941227585</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +271,8 @@
     <MESSAGE value="Leetcode" />
     <MESSAGE value="Palindrome 9" />
     <MESSAGE value="Valid Parenthesis, Stack problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Valid Parenthesis, Stack problem" />
+    <MESSAGE value="Connecting to DB, Leetcode sliding window" />
+    <option name="LAST_COMMIT_MESSAGE" value="Connecting to DB, Leetcode sliding window" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -272,6 +291,11 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Stack/ValidParenthesis20.java</url>
           <line>57</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/SlidingWindow/MaximumSubarraySumDistinct2461.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
