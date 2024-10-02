@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Cyclic sort">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/CyclicSort/FindAllNumbersDisappeared448.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Strings/MaxVowels1456.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sources/Practice/src/CollectionFramework/ArrayListp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sources/Practice/src/CollectionFramework/init.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Sliding window + Cyclic Sort">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Arrays/EncodeDecode271.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Arrays/GroupAnagrams49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/BinarySearch/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/CyclicSort/CyclicSortIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/CyclicSort/CyclicSortIntro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +45,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinarySearch.executor": "Run",
     "Application.CheckPanagram1832.executor": "Run",
     "Application.ContainsDuplicates.executor": "Run",
     "Application.CyclicSortIntro.executor": "Debug",
+    "Application.EncodeDecode271.executor": "Debug",
     "Application.FindAllNumbersDisappeared448.executor": "Run",
+    "Application.GroupAnagrams49.executor": "Run",
     "Application.LinkedListCycleDG.executor": "Run",
     "Application.LinkedListTwo142.executor": "Run",
     "Application.LongestSubstringChar3.executor": "Debug",
@@ -138,6 +139,11 @@
       <workItem from="1727321778864" duration="1908000" />
       <workItem from="1727324088961" duration="16000" />
       <workItem from="1727405024313" duration="2910000" />
+      <workItem from="1727411604823" duration="31000" />
+      <workItem from="1727576958454" duration="2980000" />
+      <workItem from="1727661664599" duration="2000000" />
+      <workItem from="1727745560947" duration="24000" />
+      <workItem from="1727842530519" duration="3883000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -267,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727150384078</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Sliding window + Cyclic Sort">
+      <option name="closed" value="true" />
+      <created>1727411626244</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727411626244</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +303,8 @@
     <MESSAGE value="Valid Parenthesis, Stack problem" />
     <MESSAGE value="Connecting to DB, Leetcode sliding window" />
     <MESSAGE value="Cyclic sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cyclic sort" />
+    <MESSAGE value="Sliding window + Cyclic Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sliding window + Cyclic Sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -318,6 +333,16 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/CyclicSort/CyclicSortIntro.java</url>
           <line>75</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/BinarySearch/BinarySearch.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Arrays/EncodeDecode271.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
