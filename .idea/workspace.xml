@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Encode + Decode">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Arrays/ProductExceptSelf238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Arrays/ValidSudoku36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sources/Practice/src/CollectionFramework/LinkedListClass.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Valid sudoku was tough, got it done though">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Arrays/ConsecutiveSequence128.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/BinarySearch/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +45,7 @@
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
     "Application.CheckPanagram1832.executor": "Run",
+    "Application.ConsecutiveSequence128.executor": "Run",
     "Application.ContainsDuplicates.executor": "Run",
     "Application.CyclicSortIntro.executor": "Debug",
     "Application.EncodeDecode271.executor": "Debug",
@@ -148,7 +146,9 @@
       <workItem from="1727745560947" duration="24000" />
       <workItem from="1727842530519" duration="5049000" />
       <workItem from="1727880136582" duration="3890000" />
-      <workItem from="1727976164744" duration="5318000" />
+      <workItem from="1727976164744" duration="6444000" />
+      <workItem from="1727988814039" duration="2353000" />
+      <workItem from="1728106335992" duration="3222000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -294,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727848595825</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Valid sudoku was tough, got it done though">
+      <option name="closed" value="true" />
+      <created>1727981974888</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727981974888</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +326,8 @@
     <MESSAGE value="Cyclic sort" />
     <MESSAGE value="Sliding window + Cyclic Sort" />
     <MESSAGE value="Encode + Decode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encode + Decode" />
+    <MESSAGE value="Valid sudoku was tough, got it done though" />
+    <option name="LAST_COMMIT_MESSAGE" value="Valid sudoku was tough, got it done though" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -352,6 +361,11 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/BinarySearch/BinarySearch.java</url>
           <line>36</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Arrays/ConsecutiveSequence128.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
