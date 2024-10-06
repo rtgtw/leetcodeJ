@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Valid sudoku was tough, got it done though">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Arrays/ConsecutiveSequence128.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Consecutive Sequence">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/TwoSumTwo167.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,7 @@
     "Application.SlidingWindowIntro.executor": "Run",
     "Application.Sqrt.executor": "Run",
     "Application.TwoSumLC.executor": "Run",
+    "Application.TwoSumTwo167.executor": "Run",
     "Application.TwoSumUnsortedLC.executor": "Run",
     "Application.ValidAnagram.executor": "Run",
     "Application.ValidPalindrome.executor": "Run",
@@ -148,7 +149,8 @@
       <workItem from="1727880136582" duration="3890000" />
       <workItem from="1727976164744" duration="6444000" />
       <workItem from="1727988814039" duration="2353000" />
-      <workItem from="1728106335992" duration="3222000" />
+      <workItem from="1728106335992" duration="3369000" />
+      <workItem from="1728197001835" duration="1142000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -302,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727981974888</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Consecutive Sequence">
+      <option name="closed" value="true" />
+      <created>1728110733087</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728110733087</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +337,8 @@
     <MESSAGE value="Sliding window + Cyclic Sort" />
     <MESSAGE value="Encode + Decode" />
     <MESSAGE value="Valid sudoku was tough, got it done though" />
-    <option name="LAST_COMMIT_MESSAGE" value="Valid sudoku was tough, got it done though" />
+    <MESSAGE value="Consecutive Sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Consecutive Sequence" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
