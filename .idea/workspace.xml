@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Trapping rain water, oN and o1 space">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Stack/MinStack155.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="MinStack">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Stack/ReversePolishNotation150.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Stack/ValidParenthesis20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Stack/ValidParenthesis20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +69,7 @@
     "Application.PalindromeLinkedList234.executor": "Run",
     "Application.ProductExceptSelf238.executor": "Debug",
     "Application.ReorderList143.executor": "Run",
+    "Application.ReversePolishNotation150.executor": "Run",
     "Application.ReverseString344.executor": "Run",
     "Application.ReverseStringTwo541.executor": "Run",
     "Application.ReverseVowel.executor": "Run",
@@ -159,7 +159,7 @@
       <workItem from="1727988814039" duration="2353000" />
       <workItem from="1728106335992" duration="3369000" />
       <workItem from="1728197001835" duration="11662000" />
-      <workItem from="1728385042683" duration="10620000" />
+      <workItem from="1728385042683" duration="14667000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -337,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728392214911</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="MinStack">
+      <option name="closed" value="true" />
+      <created>1728520751784</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1728520751784</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +373,8 @@
     <MESSAGE value="Consecutive Sequence" />
     <MESSAGE value="Two Sum variation" />
     <MESSAGE value="Trapping rain water, oN and o1 space" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trapping rain water, oN and o1 space" />
+    <MESSAGE value="MinStack" />
+    <option name="LAST_COMMIT_MESSAGE" value="MinStack" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,14 +424,10 @@
           <line>34</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Leetcode/Stack/MinStack155.java</url>
-          <line>67</line>
-          <properties class="Leetcode.Stack.MinStack155" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="16" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Stack/ReversePolishNotation150.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
