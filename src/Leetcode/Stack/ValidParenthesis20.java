@@ -36,6 +36,8 @@ public class ValidParenthesis20 {
                 //
                 if(bracketStack.isEmpty()){
                     return false;
+                    //.get gets you the value
+                    //.peek gets you they key
                 }else if(parenthesisMap.get(bracketStack.peek()) == c)
                 //pop it from the stack
                 bracketStack.pop();

@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Two Sum variation">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ContainerMostWater15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ThreeSome15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TwoPointers/TrappingRainWater42.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Trapping rain water, oN and o1 space">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Stack/MinStack155.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/TwoPointers/ThreeSum15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Stack/ValidParenthesis20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Stack/ValidParenthesis20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,9 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -61,6 +62,7 @@
     "Application.MaxVowels1456.executor": "Run",
     "Application.MaximumSubarraySumDistinct2461.executor": "Run",
     "Application.MiddleOfLinkedList876.executor": "Run",
+    "Application.MinStack155.executor": "Run",
     "Application.MissingNumber268.executor": "Run",
     "Application.NumberOfGoodPairs1512.executor": "Run",
     "Application.PailindromeNumber9.executor": "Run",
@@ -157,7 +159,7 @@
       <workItem from="1727988814039" duration="2353000" />
       <workItem from="1728106335992" duration="3369000" />
       <workItem from="1728197001835" duration="11662000" />
-      <workItem from="1728385042683" duration="5502000" />
+      <workItem from="1728385042683" duration="10620000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -327,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728198428170</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Trapping rain water, oN and o1 space">
+      <option name="closed" value="true" />
+      <created>1728392214911</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1728392214911</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,7 +364,8 @@
     <MESSAGE value="Valid sudoku was tough, got it done though" />
     <MESSAGE value="Consecutive Sequence" />
     <MESSAGE value="Two Sum variation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two Sum variation" />
+    <MESSAGE value="Trapping rain water, oN and o1 space" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trapping rain water, oN and o1 space" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -371,7 +382,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/Stack/ValidParenthesis20.java</url>
-          <line>57</line>
+          <line>59</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -404,10 +415,14 @@
           <line>34</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode/TwoPointers/TrappingRainWater42.java</url>
-          <line>124</line>
-          <option name="timeStamp" value="15" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Stack/MinStack155.java</url>
+          <line>67</line>
+          <properties class="Leetcode.Stack.MinStack155" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
