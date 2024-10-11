@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="MinStack">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Stack/ReversePolishNotation150.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Reverse Polish Notation">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Stack/GenerateParenthesis22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
     "Application.PalindromeLinkedList234.executor": "Run",
     "Application.ProductExceptSelf238.executor": "Debug",
     "Application.ReorderList143.executor": "Run",
-    "Application.ReversePolishNotation150.executor": "Run",
+    "Application.ReversePolishNotation150.executor": "Debug",
     "Application.ReverseString344.executor": "Run",
     "Application.ReverseStringTwo541.executor": "Run",
     "Application.ReverseVowel.executor": "Run",
@@ -159,7 +159,7 @@
       <workItem from="1727988814039" duration="2353000" />
       <workItem from="1728106335992" duration="3369000" />
       <workItem from="1728197001835" duration="11662000" />
-      <workItem from="1728385042683" duration="14667000" />
+      <workItem from="1728385042683" duration="18061000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -345,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728520751784</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Reverse Polish Notation">
+      <option name="closed" value="true" />
+      <created>1728525783562</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1728525783562</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +382,8 @@
     <MESSAGE value="Two Sum variation" />
     <MESSAGE value="Trapping rain water, oN and o1 space" />
     <MESSAGE value="MinStack" />
-    <option name="LAST_COMMIT_MESSAGE" value="MinStack" />
+    <MESSAGE value="Reverse Polish Notation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse Polish Notation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
