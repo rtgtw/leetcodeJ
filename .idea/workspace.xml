@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Reverse Polish Notation">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Stack/GenerateParenthesis22.java" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Generate Parenthesis, not gonna lie the recursion threw me off">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Stack/DailyTemperatures739.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Application.ContainerMostWater15.executor": "Run",
     "Application.ContainsDuplicates.executor": "Run",
     "Application.CyclicSortIntro.executor": "Debug",
+    "Application.DailyTemperatures739.executor": "Run",
     "Application.EncodeDecode271.executor": "Debug",
     "Application.FindAllNumbersDisappeared448.executor": "Run",
     "Application.GroupAnagrams49.executor": "Run",
@@ -160,6 +161,8 @@
       <workItem from="1728106335992" duration="3369000" />
       <workItem from="1728197001835" duration="11662000" />
       <workItem from="1728385042683" duration="18061000" />
+      <workItem from="1728654140128" duration="4750000" />
+      <workItem from="1728743569977" duration="6585000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -353,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728525783562</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Generate Parenthesis, not gonna lie the recursion threw me off">
+      <option name="closed" value="true" />
+      <created>1728654440962</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1728654440962</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +394,8 @@
     <MESSAGE value="Trapping rain water, oN and o1 space" />
     <MESSAGE value="MinStack" />
     <MESSAGE value="Reverse Polish Notation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse Polish Notation" />
+    <MESSAGE value="Generate Parenthesis, not gonna lie the recursion threw me off" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generate Parenthesis, not gonna lie the recursion threw me off" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -437,6 +449,11 @@
           <url>file://$PROJECT_DIR$/src/Leetcode/Stack/ReversePolishNotation150.java</url>
           <line>54</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode/Stack/DailyTemperatures739.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
