@@ -107,9 +107,7 @@ public class TrappingRainWater42 {
 
                 right--;
             }
-
         }
-
         return sum;
 
         //optimized

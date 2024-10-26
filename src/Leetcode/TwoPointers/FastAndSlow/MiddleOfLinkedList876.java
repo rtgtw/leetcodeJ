@@ -4,6 +4,8 @@ package Leetcode.TwoPointers.FastAndSlow;
 //To find the middle of the linked list you just use a fast and slow pointer
 //1 and 2 speed
 
+import Leetcode.LinkedList.ListNode;
+
 public class MiddleOfLinkedList876 {
 
 

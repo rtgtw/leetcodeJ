@@ -4,6 +4,8 @@ package Leetcode.TwoPointers.FastAndSlow;
 //Find where the cycle begins
 
 
+import Leetcode.LinkedList.ListNode;
+
 public class LinkedListTwo142 {
 
     //The first thing we have to do is identify if there is a cycle or not

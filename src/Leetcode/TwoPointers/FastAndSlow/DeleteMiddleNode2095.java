@@ -1,5 +1,7 @@
 package Leetcode.TwoPointers.FastAndSlow;
 
+import Leetcode.LinkedList.ListNode;
+
 public class DeleteMiddleNode2095 {
 
 

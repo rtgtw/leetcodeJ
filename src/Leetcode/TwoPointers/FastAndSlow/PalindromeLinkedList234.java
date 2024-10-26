@@ -5,6 +5,8 @@ package Leetcode.TwoPointers.FastAndSlow;
 //Reverse it back if its true, return false if its not true
 //Return true
 
+import Leetcode.LinkedList.ListNode;
+
 public class PalindromeLinkedList234 {
 
 
