@@ -25,7 +25,7 @@ public class SearchInRotatedSortedArray33 {
             }
 
             //we have to check whether nums[midPoint] is on the left or right side of the pivot
-            //{1,2,3,4,5,6,7,0}
+            //{4,5,6,7,0,1,2}
             //if our midPoint was 7
             //if L(4) is less than or equal to M(7), its apart of the left side
             //This is true, which means 7 is apart of the left side
@@ -48,7 +48,7 @@ public class SearchInRotatedSortedArray33 {
                 }
                 //this means the midPoint is apart of the right side
             }else{
-                //{1,2,3,4,5,6,7,0}
+                //{4,5,6,7,0,1,2}
                 //we have to go to the left
                 if(target > nums[right] || target < nums[midPoint]){
                     right = midPoint - 1;

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Binary search problem, rotated array">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/BinarySearch/SearchInRotatedSortedArray33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7bfb5e95-6678-47a9-8db3-aa6ba86b5db0" name="Changes" comment="Search in a sorted Array, tricky but fun">
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/BinarySearch/SearchInRotatedSortedArray33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/BinarySearch/SearchInRotatedSortedArray33.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +171,7 @@
       <workItem from="1729247424494" duration="3776000" />
       <workItem from="1729945318655" duration="11550000" />
       <workItem from="1730039349183" duration="2326000" />
-      <workItem from="1730317990350" duration="3474000" />
+      <workItem from="1730317990350" duration="3769000" />
     </task>
     <task id="LOCAL-00001" summary="TwoSum, two pointer and hashmap">
       <option name="closed" value="true" />
@@ -406,14 +405,29 @@
       <option name="project" value="LOCAL" />
       <updated>1730041026392</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Search in a sorted Array, tricky but fun">
+      <option name="closed" value="true" />
+      <created>1730321530575</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1730321530575</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Search in a sorted Array, tricky but fun">
+      <option name="closed" value="true" />
+      <created>1730321609451</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1730321609451</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode Contains Duplicates" />
     <MESSAGE value="Leetcode isAnagram, not the best but we push forward" />
     <MESSAGE value="Leetcode Shortest Distance a nd BufferedInputStream" />
     <MESSAGE value="Reverse Vowel + optimized" />
@@ -438,7 +452,8 @@
     <MESSAGE value="Adjustments to the node class" />
     <MESSAGE value="Koko eating bananas binary search problem" />
     <MESSAGE value="Binary search problem, rotated array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary search problem, rotated array" />
+    <MESSAGE value="Search in a sorted Array, tricky but fun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Search in a sorted Array, tricky but fun" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -510,7 +525,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Leetcode/BinarySearch/SearchInRotatedSortedArray33.java</url>
-          <line>72</line>
+          <line>75</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
